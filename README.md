@@ -1,0 +1,1 @@
+# Result-qr-code-component-main
